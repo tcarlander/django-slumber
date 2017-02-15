@@ -2,7 +2,8 @@ language: python
 
 python:
     - "2.7"
-
+    - "3.4"
+    - "3.5"
 env:
     - DJANGO=1_0
     - DJANGO=1_3
